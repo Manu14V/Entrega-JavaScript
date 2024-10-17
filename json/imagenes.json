@@ -1,0 +1,58 @@
+[
+    {
+        "titulo": "Iphone 14 pro",
+        "url": "./img/iphone 14 pro.jpg",
+        "bateria": "95%",
+        "almacenamiento": "256GB",
+        "precio": 850
+    },
+    {
+        "titulo": "Iphone 14 pro",
+        "url": "./img/Iphone 14 pro 128.jpg",
+        "bateria": "100%",
+        "almacenamiento": "128GB",
+        "precio": 900
+    },
+    {
+        "titulo": "Iphone 14 pro",
+        "url": "./img/Iphone 14 pro 128 black.jpg",
+        "bateria": "100%",
+        "almacenamiento": "128GB",
+        "precio": 900
+    },
+    {
+        "titulo": "Iphone 15",
+        "url": "./img/Iphone 15 128.jpg",
+        "bateria": "98%",
+        "almacenamiento": "128GB",
+        "precio": 950
+    },
+    {
+        "titulo": "Iphone 13",
+        "url": "./img/Iphone 13 pink 128.jpg",
+        "bateria": "95%",
+        "almacenamiento": "128GB",
+        "precio": 750
+    },
+    {
+        "titulo": "Iphone 11",
+        "url": "./img/Iphone 11 64GB.jpeg",
+        "bateria": "100%",
+        "almacenamiento": "64GB",
+        "precio": 430
+    },
+    {
+        "titulo": "Iphone 14 pro",
+        "url": "./img/Iphone 11 128 red.jpeg",
+        "bateria": "100%",
+        "almacenamiento": "128GB",
+        "precio": 400
+    },
+    {
+        "titulo": "Iphone 11",
+        "url": "./img/Iphone 13 azul 128.jpeg",
+        "bateria": "82%",
+        "almacenamiento": "128GB",
+        "precio": 800
+    }
+]
